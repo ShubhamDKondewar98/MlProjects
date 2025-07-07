@@ -1,0 +1,135 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.pipenv/
+.python-version
+
+# Distribution / packaging  
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# MacOS
+.DS_Store
+
+# Logs and local configs
+*.log
+*.env
+*.local
+*.secret
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Test result files
+test-results/
+
+# Docker
+*.pid
+
+# Node (if applicable)
+node_modules/
+
+# Additional IDE/workspace configs (optional, based on usage)
+*.sublime-workspace
+*.sublime-project
+
+# Coverage output
+.coverage
+
+# Static analysis tools
+.pytype/
+
+# JetBrains IDEs
+.idea/
+
+# Database files
+*.sqlite3
+*.db
+
+# Binary files
+*.bin
+
+# Temporary files
+*.temp
+*.tmp
+
+# VS Code settings (if you do not want to share workspace settings)
+.vscode/
+
+# Optional: Add your own custom ignores
+# e.g., custom_data/, private_keys/, etc.
+
